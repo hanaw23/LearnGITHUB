@@ -4,8 +4,10 @@ RENCANA 2022:
 - Learn Frontend : 
   * responsive and animated web design
   * Framework
+    ^ Vue
 - Learn Backend
-  * Databases
+  * PHP Frameworks
+    ^ Laravel
   * API
 - Learn new languague programming Ruby, Python, or c#
 - Learn game dev, movie and rendering
