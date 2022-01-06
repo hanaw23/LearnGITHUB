@@ -4,7 +4,7 @@ RENCANA 2022:
 - Learn Frontend : 
   * responsive and animated web design
   * Framework
-    ^ Vue
+    ^ Angular
     ^ React
 - Learn Backend
   * PHP Frameworks
