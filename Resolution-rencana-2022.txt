@@ -1,8 +1,11 @@
 RENCANA 2022:
 
+- Structure Data
 - Learn Frontend : 
   * responsive and animated web design
   * Framework
 - Learn Backend
+  * Databases
+  * API
 - Learn new languague programming Ruby, Python, or c#
 - Learn game dev, movie and rendering
